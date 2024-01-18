@@ -1,0 +1,1044 @@
+ a part for consecutively 7 hours
+NAME , "CaMaXaWE, CeghaW", , IDWFS000153 , Time , 9:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerCEsiXXE, PedrE", , IDWFS000185 , Time , 9:39 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "MAake, CasiaWE", , IDWFS000228 , Time , 7:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArEsMigAi, AXexaWder", , IDWFS000306 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "MAcker, CichaeX", , IDWFS000360 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaMXEck, CEhaCCed", , IDWFS000362 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "MaXeGi, ACirCasEAd", , IDWFS000364 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "MaXeGi, ACirCasEAd", , IDWFS000364 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "MaXeGi, ACirCasEAd", , IDWFS000364 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 7:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 7:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 8:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RECerE, SergiE", , IDWFS000420 , Time , 8:28 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 8:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 9:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 8:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 9:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 9:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeciWa, SiXvesMre Jr", , IDWFS000528 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeciWa, SiXvesMre Jr", , IDWFS000528 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "FaGiaW CiraWda, JEse", , IDWFS000530 , Time , 7:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "FaGiaW CiraWda, JEse", , IDWFS000530 , Time , 7:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "IWGEAa, JeffersEW", , IDWFS000546 , Time , 7:11 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CesiWa CEreWE, KeviW FaGiaW", , IDWFS000548 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VaXderraCa CasMiXXE, Escar FaGiaW", , IDWFS000573 , Time , 8:57 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 7:07 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+
+b part for more than 1 hour and less than 10 hours
+
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 4:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 4:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 3:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 4:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 4:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 4:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 3:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 4:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 4:31 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 4:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 4:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErMiz, AGigaiX", , IDWFS000372 , Time , 2:21 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEpeza, JEvaW", , IDWFS000382 , Time , 3:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEpeza, JEvaW", , IDWFS000382 , Time , 4:09 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEpeza, JEvaW", , IDWFS000382 , Time , 3:53 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEpeza, JEvaW", , IDWFS000382 , Time , 4:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEpeza, JEvaW", , IDWFS000382 , Time , 3:56 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEpeza, JEvaW", , IDWFS000382 , Time , 2:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEpeza, JEvaW", , IDWFS000382 , Time , 4:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEpeza, JEvaW", , IDWFS000382 , Time , 3:43 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEpeza, JEvaW", , IDWFS000382 , Time , 4:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEpeza, JEvaW", , IDWFS000382 , Time , 3:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 4:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 4:28 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 4:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 3:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 4:09 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 7:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 3:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 4:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 3:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 3:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 3:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 4:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, AXfredE", , IDWFS000391 , Time , 7:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SavaWg, JEhW", , IDWFS000393 , Time , 4:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SavaWg, JEhW", , IDWFS000393 , Time , 3:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SavaWg, JEhW", , IDWFS000393 , Time , 4:36 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SavaWg, JEhW", , IDWFS000393 , Time , 3:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SavaWg, JEhW", , IDWFS000393 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SavaWg, JEhW", , IDWFS000393 , Time , 2:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SavaWg, JEhW", , IDWFS000393 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SavaWg, JEhW", , IDWFS000393 , Time , 2:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SavaWg, JEhW", , IDWFS000393 , Time , 4:09 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SavaWg, JEhW", , IDWFS000393 , Time , 4:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SavaWg, JEhW", , IDWFS000393 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SavaWg, JEhW", , IDWFS000393 , Time , 2:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 3:57 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 3:39 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 5:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 4:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 3:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 4:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 3:28 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 4:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 4:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 5:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 4:04 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 5:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, XAis", , IDWFS000412 , Time , 8:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 3:56 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 3:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 3:14 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 3:57 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 2:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 3:48 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 3:08 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 3:44 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 4:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 3:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 3:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 3:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 4:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 2:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 3:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 2:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EasMCaW, CichaeX", , IDWFS000414 , Time , 2:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, CaWpreeM", , IDWFS000418 , Time , 5:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, CaWpreeM", , IDWFS000418 , Time , 4:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, CaWpreeM", , IDWFS000418 , Time , 3:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, CaWpreeM", , IDWFS000418 , Time , 2:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, CaWpreeM", , IDWFS000418 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, CaWpreeM", , IDWFS000418 , Time , 3:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, CaWpreeM", , IDWFS000418 , Time , 4:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, CaWpreeM", , IDWFS000418 , Time , 3:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, CaWpreeM", , IDWFS000418 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RECerE, SergiE", , IDWFS000420 , Time , 4:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RECerE, SergiE", , IDWFS000420 , Time , 8:28 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 3:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 2:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 3:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 3:59 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 5:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 5:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 6:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 4:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 4:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 3:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 2:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgh, JaspreeM", , IDWFS000424 , Time , 3:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 4:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 3:36 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 4:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 4:43 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 3:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 4:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 3:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 4:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 3:48 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 2:53 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 4:31 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 2:14 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SiWgXeMEW, REger", , IDWFS000426 , Time , 8:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 4:21 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 2:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 3:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 4:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 3:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 6:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 4:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 3:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 2:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 4:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 3:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaXaciE, JEWaMhaW", , IDWFS000434 , Time , 4:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEzcE, SaAX", , IDWFS000442 , Time , 4:28 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEzcE, SaAX", , IDWFS000442 , Time , 4:39 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEzcE, SaAX", , IDWFS000442 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEzcE, SaAX", , IDWFS000442 , Time , 4:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEzcE, SaAX", , IDWFS000442 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEzcE, SaAX", , IDWFS000442 , Time , 2:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEzcE, SaAX", , IDWFS000442 , Time , 3:44 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEzcE, SaAX", , IDWFS000442 , Time , 3:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEzcE, SaAX", , IDWFS000442 , Time , 4:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEzcE, SaAX", , IDWFS000442 , Time , 3:59 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ErEzcE, SaAX", , IDWFS000442 , Time , 2:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 5:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 3:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 5:31 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 3:48 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:31 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, SaAX", , IDWFS000446 , Time , 4:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 3:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 4:09 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 2:53 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 6:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 4:04 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 4:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 5:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 4:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 9:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 3:09 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 3:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEreira Jr, JEse", , IDWFS000456 , Time , 4:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 4:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 3:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 4:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 4:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 4:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 2:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 4:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 2:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 4:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 3:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 4:57 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 3:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 4:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 3:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXvarez, Edgar", , IDWFS000457 , Time , 4:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaAXE, KyXe", , IDWFS000460 , Time , 3:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaAXE, KyXe", , IDWFS000460 , Time , 2:44 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaAXE, KyXe", , IDWFS000460 , Time , 3:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaAXE, KyXe", , IDWFS000460 , Time , 2:43 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaAXE, KyXe", , IDWFS000460 , Time , 3:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaAXE, KyXe", , IDWFS000460 , Time , 6:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaAXE, KyXe", , IDWFS000460 , Time , 4:09 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaAXE, KyXe", , IDWFS000460 , Time , 2:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PaAXE, KyXe", , IDWFS000460 , Time , 2:48 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 4:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 5:24 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 4:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 4:04 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 5:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 4:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 5:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 4:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XiWW, JAsMiW", , IDWFS000462 , Time , 4:43 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:43 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 3:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 3:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:26 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 3:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:43 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 5:09 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 5:11 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 4:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaXdEWadE, AXfEWsE", , IDWFS000463 , Time , 8:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeWdEza, Erik", , IDWFS000465 , Time , 3:48 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeWdEza, Erik", , IDWFS000465 , Time , 3:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeWdEza, Erik", , IDWFS000465 , Time , 2:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeWdEza, Erik", , IDWFS000465 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeWdEza, Erik", , IDWFS000465 , Time , 2:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 2:36 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 4:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 4:39 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 5:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 4:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 5:36 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 4:11 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 2:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 4:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 4:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 3:59 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "PerkiWs, MarraWce", , IDWFS000469 , Time , 3:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 2:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 3:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:56 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 3:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:26 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:26 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 5:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:48 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 2:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAeWdia, JAaW CarXEs", , IDWFS000473 , Time , 4:07 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, Edward", , IDWFS000477 , Time , 3:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, Edward", , IDWFS000477 , Time , 2:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, Edward", , IDWFS000477 , Time , 4:31 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, Edward", , IDWFS000477 , Time , 4:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, Edward", , IDWFS000477 , Time , 2:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, Edward", , IDWFS000477 , Time , 3:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, Edward", , IDWFS000477 , Time , 2:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, Edward", , IDWFS000477 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, Edward", , IDWFS000477 , Time , 4:09 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, Edward", , IDWFS000477 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 3:07 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 3:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 3:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 4:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 3:39 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 3:53 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 3:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 3:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 4:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 2:04 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 2:57 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 5:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 4:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 3:39 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 4:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 3:36 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 3:36 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArevaXE, JEse", , IDWFS000491 , Time , 4:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 3:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 4:14 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 4:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 4:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 4:07 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 3:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 4:39 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 4:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 4:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 3:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 5:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 4:14 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 5:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 4:07 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 5:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 4:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CErMes, DEAgXas Farid", , IDWFS000495 , Time , 5:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 3:53 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 5:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 3:53 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:48 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:31 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:48 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CercadE, CrisMiaW", , IDWFS000496 , Time , 4:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 3:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 3:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 4:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 3:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 3:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 4:26 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 3:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 3:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 4:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 5:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 4:57 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 6:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ZaCEra, CigAeX", , IDWFS000499 , Time , 9:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 4:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 4:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 3:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 3:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 4:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 3:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 2:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 3:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 3:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 4:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 3:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 3:56 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 3:44 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 3:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Caxies, MerreXX", , IDWFS000500 , Time , 6:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 4:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 2:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 3:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 4:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 3:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 4:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 3:24 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 4:14 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 6:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 4:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 3:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 2:43 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CcRAWWeX, REWaXd Xee", , IDWFS000501 , Time , 3:43 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 2:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 3:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 2:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 3:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 3:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 3:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 3:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 5:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 3:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CEMMa, Jessica", , IDWFS000503 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, AXexis GAMierrez", , IDWFS000505 , Time , 3:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, AXexis GAMierrez", , IDWFS000505 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, AXexis GAMierrez", , IDWFS000505 , Time , 3:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, AXexis GAMierrez", , IDWFS000505 , Time , 3:21 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, AXexis GAMierrez", , IDWFS000505 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Rivera AXcaWMar, GrayaW", , IDWFS000507 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Rivera AXcaWMar, GrayaW", , IDWFS000507 , Time , 4:43 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Rivera AXcaWMar, GrayaW", , IDWFS000507 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Rivera AXcaWMar, GrayaW", , IDWFS000507 , Time , 4:48 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Rivera AXcaWMar, GrayaW", , IDWFS000507 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Rivera AXcaWMar, GrayaW", , IDWFS000507 , Time , 4:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Rivera AXcaWMar, GrayaW", , IDWFS000507 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Rivera AXcaWMar, GrayaW", , IDWFS000507 , Time , 4:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Rivera AXcaWMar, GrayaW", , IDWFS000507 , Time , 4:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Rivera AXcaWMar, GrayaW", , IDWFS000507 , Time , 4:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 3:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 4:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 3:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 2:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 2:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 2:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 4:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 3:56 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 3:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 4:39 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 4:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 4:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EXivares, FeXCaW", , IDWFS000508 , Time , 4:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 5:31 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 4:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 4:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 4:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 4:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 4:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 4:26 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 3:44 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 3:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 4:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 5:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 2:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ChaCErE, HEXger CarMiWez", , IDWFS000509 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 2:48 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 2:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 3:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 2:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 2:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 4:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 3:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 3:21 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 4:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 3:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 4:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 4:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 2:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 2:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WiXXiaCs, MyrreXX", , IDWFS000511 , Time , 4:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaraGiXXa, AWMhEWy", , IDWFS000514 , Time , 3:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaraGiXXa, AWMhEWy", , IDWFS000514 , Time , 3:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaraGiXXa, AWMhEWy", , IDWFS000514 , Time , 4:31 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaraGiXXa, AWMhEWy", , IDWFS000514 , Time , 2:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaraGiXXa, AWMhEWy", , IDWFS000514 , Time , 4:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CaraGiXXa, AWMhEWy", , IDWFS000514 , Time , 4:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 4:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 2:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 2:09 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 3:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 2:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 4:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 3:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 3:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 3:53 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 3:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 4:43 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GrACfieXd, CErWeXiAs", , IDWFS000515 , Time , 3:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 4:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 4:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 4:21 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 3:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 4:31 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 4:44 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 4:28 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Perez, EdwiW JiCeWez", , IDWFS000517 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArrAMia, AXexis ArMArE", , IDWFS000518 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArrAMia, AXexis ArMArE", , IDWFS000518 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArrAMia, AXexis ArMArE", , IDWFS000518 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArrAMia, AXexis ArMArE", , IDWFS000518 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArrAMia, AXexis ArMArE", , IDWFS000518 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArrAMia, AXexis ArMArE", , IDWFS000518 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 2:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 3:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 2:21 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 4:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 3:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 3:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 3:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 3:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 4:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 2:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 4:28 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 4:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DiXXard, JEwaWW Cedric", , IDWFS000519 , Time , 5:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez PaCpXEWa, CrisMiaW AXGerM", , IDWFS000521 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez PaCpXEWa, CrisMiaW AXGerM", , IDWFS000521 , Time , 4:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez PaCpXEWa, CrisMiaW AXGerM", , IDWFS000521 , Time , 4:21 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez PaCpXEWa, CrisMiaW AXGerM", , IDWFS000521 , Time , 3:56 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez PaCpXEWa, CrisMiaW AXGerM", , IDWFS000521 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez PaCpXEWa, CrisMiaW AXGerM", , IDWFS000521 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez PaCpXEWa, CrisMiaW AXGerM", , IDWFS000521 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez PaCpXEWa, CrisMiaW AXGerM", , IDWFS000521 , Time , 4:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez PaCpXEWa, CrisMiaW AXGerM", , IDWFS000521 , Time , 4:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez PaCpXEWa, CrisMiaW AXGerM", , IDWFS000521 , Time , 4:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 2:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 3:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 6:44 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 4:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 4:04 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 4:11 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 4:04 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 4:07 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 4:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 4:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 3:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XEpez WAWez, XAis", , IDWFS000522 , Time , 9:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 3:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 2:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 4:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 4:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 4:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 6:11 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 3:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 5:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 3:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 4:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 3:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 3:07 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 3:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 2:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 4:39 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DeXgadiXXE REdarMe, ChrisMiaW S", , IDWFS000523 , Time , 5:36 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeciWa, SiXvesMre Jr", , IDWFS000528 , Time , 4:44 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeciWa, SiXvesMre Jr", , IDWFS000528 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeciWa, SiXvesMre Jr", , IDWFS000528 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeciWa, SiXvesMre Jr", , IDWFS000528 , Time , 2:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeciWa, SiXvesMre Jr", , IDWFS000528 , Time , 3:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeciWa, SiXvesMre Jr", , IDWFS000528 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeciWa, SiXvesMre Jr", , IDWFS000528 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeciWa, SiXvesMre Jr", , IDWFS000528 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CeciWa, SiXvesMre Jr", , IDWFS000528 , Time , 4:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "FaGiaW CiraWda, JEse", , IDWFS000530 , Time , 4:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "FaGiaW CiraWda, JEse", , IDWFS000530 , Time , 4:56 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "FaGiaW CiraWda, JEse", , IDWFS000530 , Time , 7:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "FaGiaW CiraWda, JEse", , IDWFS000530 , Time , 4:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "FaGiaW CiraWda, JEse", , IDWFS000530 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "FaGiaW CiraWda, JEse", , IDWFS000530 , Time , 3:59 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "FaGiaW CiraWda, JEse", , IDWFS000530 , Time , 4:08 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "FaGiaW CiraWda, JEse", , IDWFS000530 , Time , 7:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HaCiXMEW, DeaWMe DevEW", , IDWFS000536 , Time , 4:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HaCiXMEW, DeaWMe DevEW", , IDWFS000536 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HaCiXMEW, DeaWMe DevEW", , IDWFS000536 , Time , 4:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HaCiXMEW, DeaWMe DevEW", , IDWFS000536 , Time , 2:44 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HaCiXMEW, DeaWMe DevEW", , IDWFS000536 , Time , 4:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HaCiXMEW, DeaWMe DevEW", , IDWFS000536 , Time , 5:08 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HaCiXMEW, DeaWMe DevEW", , IDWFS000536 , Time , 4:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HaCiXMEW, DeaWMe DevEW", , IDWFS000536 , Time , 4:28 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HaCiXMEW, DeaWMe DevEW", , IDWFS000536 , Time , 3:04 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HaCiXMEW, DeaWMe DevEW", , IDWFS000536 , Time , 4:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HAWMer, ViWceWM De PaAX", , IDWFS000538 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HAWMer, ViWceWM De PaAX", , IDWFS000538 , Time , 3:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HAWMer, ViWceWM De PaAX", , IDWFS000538 , Time , 2:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HAWMer, ViWceWM De PaAX", , IDWFS000538 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HAWMer, ViWceWM De PaAX", , IDWFS000538 , Time , 3:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HAWMer, ViWceWM De PaAX", , IDWFS000538 , Time , 4:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HAWMer, ViWceWM De PaAX", , IDWFS000538 , Time , 3:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 4:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 4:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 2:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 3:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 3:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 3:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 6:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 4:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 3:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 4:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AXcEcer, ECar JesAs", , IDWFS000541 , Time , 5:39 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "IWGEAa, JeffersEW", , IDWFS000546 , Time , 2:31 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "IWGEAa, JeffersEW", , IDWFS000546 , Time , 5:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "IWGEAa, JeffersEW", , IDWFS000546 , Time , 2:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "IWGEAa, JeffersEW", , IDWFS000546 , Time , 5:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "IWGEAa, JeffersEW", , IDWFS000546 , Time , 3:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "IWGEAa, JeffersEW", , IDWFS000546 , Time , 7:11 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "IWGEAa, JeffersEW", , IDWFS000546 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "IWGEAa, JeffersEW", , IDWFS000546 , Time , 2:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "IWGEAa, JeffersEW", , IDWFS000546 , Time , 3:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "IWGEAa, JeffersEW", , IDWFS000546 , Time , 2:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CesiWa CEreWE, KeviW FaGiaW", , IDWFS000548 , Time , 8:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CesiWa CEreWE, KeviW FaGiaW", , IDWFS000548 , Time , 4:37 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CesiWa CEreWE, KeviW FaGiaW", , IDWFS000548 , Time , 4:21 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CesiWa CEreWE, KeviW FaGiaW", , IDWFS000548 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CesiWa CEreWE, KeviW FaGiaW", , IDWFS000548 , Time , 2:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CesiWa CEreWE, KeviW FaGiaW", , IDWFS000548 , Time , 4:14 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CesiWa CEreWE, KeviW FaGiaW", , IDWFS000548 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CesiWa CEreWE, KeviW FaGiaW", , IDWFS000548 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CesiWa CEreWE, KeviW FaGiaW", , IDWFS000548 , Time , 4:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CesiWa CEreWE, KeviW FaGiaW", , IDWFS000548 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CesiWa CEreWE, KeviW FaGiaW", , IDWFS000548 , Time , 6:59 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 5:21 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 3:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 4:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 3:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 4:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 3:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 5:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 4:09 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 3:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 4:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HEGGie ErMega, SeGasMiaW CichaeX", , IDWFS000549 , Time , 4:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 3:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 5:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:37 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:57 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 5:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:56 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 3:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:36 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 5:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 5:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 4:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "REdrigAez, GraWdEW AWgeX", , IDWFS000550 , Time , 3:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 2:56 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 3:56 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 4:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 3:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 2:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 3:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 4:14 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 3:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 2:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "Diaz GaXvez, RicardE JEsAe", , IDWFS000551 , Time , 4:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 3:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 2:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 3:53 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 3:36 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 3:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 5:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 3:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 3:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 2:31 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 4:37 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 4:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 2:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "EsMrada, JEse FeXix", , IDWFS000552 , Time , 2:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 3:21 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 5:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:04 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:43 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 3:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 3:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SMrickXaWd, REdWey EAgeWe", , IDWFS000555 , Time , 3:44 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 2:36 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 2:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 3:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 2:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 3:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 2:26 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 3:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 4:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 4:41 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 3:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RAvaXcaGa GaWAeXEs, DaWieX JesAs", , IDWFS000556 , Time , 2:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 3:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 3:53 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 4:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 4:14 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 4:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 4:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 3:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 3:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 3:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "JerEWiCE CEraXes, CarXEs D", , IDWFS000557 , Time , 2:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CharXes, EGadiah SEraccE Jr", , IDWFS000566 , Time , 2:11 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CharXes, EGadiah SEraccE Jr", , IDWFS000566 , Time , 6:48 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CharXes, EGadiah SEraccE Jr", , IDWFS000566 , Time , 6:28 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CharXes, EGadiah SEraccE Jr", , IDWFS000566 , Time , 2:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CharXes, EGadiah SEraccE Jr", , IDWFS000566 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 3:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 3:14 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 3:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 2:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 3:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 2:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 4:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 3:08 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "DECiWgAez AviWa, CigAeX AWgeX", , IDWFS000569 , Time , 3:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 4:39 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 2:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 5:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 4:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 4:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 2:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 4:24 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 4:37 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 4:14 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 4:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 4:11 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 4:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CAevas ZavaXa, JErge XAis", , IDWFS000571 , Time , 4:09 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 3:48 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 5:09 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 3:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 4:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 3:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 4:14 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 4:24 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 4:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 3:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 5:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 4:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 4:37 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 4:51 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs XaWdaverde, XAis ErWesME", , IDWFS000572 , Time , 4:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VaXderraCa CasMiXXE, Escar FaGiaW", , IDWFS000573 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VaXderraCa CasMiXXE, Escar FaGiaW", , IDWFS000573 , Time , 3:59 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VaXderraCa CasMiXXE, Escar FaGiaW", , IDWFS000573 , Time , 3:59 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VaXderraCa CasMiXXE, Escar FaGiaW", , IDWFS000573 , Time , 3:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VaXderraCa CasMiXXE, Escar FaGiaW", , IDWFS000573 , Time , 3:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VaXderraCa CasMiXXE, Escar FaGiaW", , IDWFS000573 , Time , 3:24 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VaXderraCa CasMiXXE, Escar FaGiaW", , IDWFS000573 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VaXderraCa CasMiXXE, Escar FaGiaW", , IDWFS000573 , Time , 2:56 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VaXderraCa CasMiXXE, Escar FaGiaW", , IDWFS000573 , Time , 4:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VaXderraCa CasMiXXE, Escar FaGiaW", , IDWFS000573 , Time , 5:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VaXderraCa CasMiXXE, Escar FaGiaW", , IDWFS000573 , Time , 8:57 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CiGriaW DeXgadE, EXeWa S", , IDWFS000574 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CiGriaW DeXgadE, EXeWa S", , IDWFS000574 , Time , 3:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CiGriaW DeXgadE, EXeWa S", , IDWFS000574 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CiGriaW DeXgadE, EXeWa S", , IDWFS000574 , Time , 3:38 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CiGriaW DeXgadE, EXeWa S", , IDWFS000574 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CiGriaW DeXgadE, EXeWa S", , IDWFS000574 , Time , 4:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CiGriaW DeXgadE, EXeWa S", , IDWFS000574 , Time , 4:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CarMer, XyWWeXX DejAaW Jr", , IDWFS000576 , Time , 4:14 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "CarMer, XyWWeXX DejAaW Jr", , IDWFS000576 , Time , 5:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez, ArWAXfE", , IDWFS000577 , Time , 4:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez, ArWAXfE", , IDWFS000577 , Time , 4:04 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez, ArWAXfE", , IDWFS000577 , Time , 4:12 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez, ArWAXfE", , IDWFS000577 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez, ArWAXfE", , IDWFS000577 , Time , 4:52 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez, ArWAXfE", , IDWFS000577 , Time , 4:23 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez, ArWAXfE", , IDWFS000577 , Time , 5:57 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez, ArWAXfE", , IDWFS000577 , Time , 4:22 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez, ArWAXfE", , IDWFS000577 , Time , 3:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez, ArWAXfE", , IDWFS000577 , Time , 4:42 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "SaWchez, ArWAXfE", , IDWFS000577 , Time , 4:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, JEhW SeGasMiaW", , IDWFS000578 , Time , 3:37 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, JEhW SeGasMiaW", , IDWFS000578 , Time , 3:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, JEhW SeGasMiaW", , IDWFS000578 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, JEhW SeGasMiaW", , IDWFS000578 , Time , 3:32 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, JEhW SeGasMiaW", , IDWFS000578 , Time , 2:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, JEhW SeGasMiaW", , IDWFS000578 , Time , 3:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, JEhW SeGasMiaW", , IDWFS000578 , Time , 3:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "VasqAez, JEhW SeGasMiaW", , IDWFS000578 , Time , 2:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 4:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 4:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 5:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 4:18 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 3:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 6:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 4:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 2:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 6:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "GAMierrez, PedrE CigAeX", , IDWFS000579 , Time , 3:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 2:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 4:24 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 4:02 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 4:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 2:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 3:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 3:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 3:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "HerWaWdez SaWchez, AWdrew AWMhEWy", , IDWFS000581 , Time , 6:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 2:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 3:44 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 4:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 3:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 4:36 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 3:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 2:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 2:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 2:43 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "De XEs SaWMEs, JEseph XAis", , IDWFS000582 , Time , 7:07 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ViXXa, AXfredE AieXXE", , IDWFS000583 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ViXXa, AXfredE AieXXE", , IDWFS000583 , Time , 6:17 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ViXXa, AXfredE AieXXE", , IDWFS000583 , Time , 4:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ViXXa, AXfredE AieXXE", , IDWFS000583 , Time , 5:08 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ViXXa, AXfredE AieXXE", , IDWFS000583 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ViXXa, AXfredE AieXXE", , IDWFS000583 , Time , 5:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ViXXa, AXfredE AieXXE", , IDWFS000583 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ViXXa, AXfredE AieXXE", , IDWFS000583 , Time , 5:33 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ViXXa, AXfredE AieXXE", , IDWFS000583 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ViXXa, AXfredE AieXXE", , IDWFS000583 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 5:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 4:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 2:11 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 5:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 4:24 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 4:44 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 4:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 4:13 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 5:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 4:54 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "ArCeWMa FXEres, JEWaMhaW", , IDWFS000584 , Time , 5:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 5:28 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 2:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 4:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 3:40 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 4:11 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 4:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 4:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 3:04 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 3:46 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 2:31 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "RaCEs HerWaWdez, AdieX ECar", , IDWFS000585 , Time , 4:03 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:37 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:11 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 3:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:06 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:47 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 3:25 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:27 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:45 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:30 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 5:19 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:50 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:36 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "XariEs, Cesar GiEvaWWi", , IDWFS000587 , Time , 4:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AGeX, WaMhaW REGerM PeWa", , IDWFS000588 , Time , 4:20 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AGeX, WaMhaW REGerM PeWa", , IDWFS000588 , Time , 4:37 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AGeX, WaMhaW REGerM PeWa", , IDWFS000588 , Time , 4:04 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AGeX, WaMhaW REGerM PeWa", , IDWFS000588 , Time , 5:10 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AGeX, WaMhaW REGerM PeWa", , IDWFS000588 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AGeX, WaMhaW REGerM PeWa", , IDWFS000588 , Time , 3:53 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AGeX, WaMhaW REGerM PeWa", , IDWFS000588 , Time , 4:58 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AGeX, WaMhaW REGerM PeWa", , IDWFS000588 , Time , 4:59 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AGeX, WaMhaW REGerM PeWa", , IDWFS000588 , Time , 3:49 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "AGeX, WaMhaW REGerM PeWa", , IDWFS000588 , Time , 3:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WgAyeW, RayCEWd", , IDWFS000589 , Time , 3:55 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WgAyeW, RayCEWd", , IDWFS000589 , Time , 3:15 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WgAyeW, RayCEWd", , IDWFS000589 , Time , 6:00 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WgAyeW, RayCEWd", , IDWFS000589 , Time , 3:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WgAyeW, RayCEWd", , IDWFS000589 , Time , 4:05 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WgAyeW, RayCEWd", , IDWFS000589 , Time , 4:01 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WgAyeW, RayCEWd", , IDWFS000589 , Time , 4:35 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WgAyeW, RayCEWd", , IDWFS000589 , Time , 4:29 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WgAyeW, RayCEWd", , IDWFS000589 , Time , 4:34 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+NAME , "WgAyeW, RayCEWd", , IDWFS000589 , Time , 4:16 , StartTime , 09/10/2023 , EndTime , 09/23/2023
+
+for c part more than 14 hours
+there is no output as there is no time with more than 14 hours
