@@ -42,13 +42,13 @@ int main(){
         // int tame = stoi(TimecardHours[0]);
         char ch = TimecardHours[0];
         int time = ch - '0';
-
+        if(TimecardHours[1] == '4') cout<<PositionID<<endl;
         // c part Who has worked for more than 14 hours in a single shift
         if(time>14)cout<<"NAME"<<" "<<EmployeeName<<" "<<"ID"<<PositionID<<" "<<"Time"<<" "<<TimecardHours<<" "<<"StartTime"<<" "<<Start<<" "<<"EndTime"<<" "<<End<<endl;
 
         // this is showing all the employs with working hours of more than 14 hours
         // code shows name id and time the employs worked and start time and end time
-
+        
     }
 
     ip.close();
